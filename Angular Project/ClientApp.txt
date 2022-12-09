@@ -1,0 +1,8 @@
+  "scripts": {
+    "ng": "ng",
+    "start": "ng serve --port 44419",
+    "build": "ng build",
+    "build:ssr": "ng run AngMovieTicket:server:dev",
+    "watch": "ng build --watch --configuration development",
+    "test": "ng test"
+  },
